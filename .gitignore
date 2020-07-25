@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/libfuture
+libfuture.so
+libfuture.dylib
+libfuture.dll
+libfuture.a
+libfuture.lib
+libfuture-test-*
+*.exe
+*.o
+*.obj
+*.lst

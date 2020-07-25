@@ -1,0 +1,10 @@
+name "libfuture"
+description "A minimal D application."
+authors "lempiji"
+license "MIT"
+configuration "default" {
+    targetType "library"
+}
+configuration "unittest" {
+    dependency "silly" version="~>1.0.2"
+}
