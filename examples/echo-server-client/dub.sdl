@@ -1,0 +1,5 @@
+name "echo-server-client"
+description "A minimal D application."
+authors "lempiji"
+license "public domain"
+dependency "libfuture" path="../../"
