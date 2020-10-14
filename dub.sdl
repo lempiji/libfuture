@@ -1,5 +1,5 @@
 name "libfuture"
-description "A minimal D application."
+description "This is an implementation of the await concept."
 authors "lempiji"
 license "MIT"
 configuration "default" {
